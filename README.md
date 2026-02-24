@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel Caldeira 👋
 
-<!--
-**1caldeira/1caldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Software Engineer | Back-end Specialist | Bacharel em Ciência da Computação**
 
-Here are some ideas to get you started:
+Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mais modernas práticas de arquitetura de software e padrões de projeto. Recentemente concluí minha graduação e obtive o título de Bacharel em **Ciência da Computação**. Esses 4 anos na faculdade aliados à minha curiosidade de aprender me deram a base necessária para entender como as coisas funcionam "por baixo dos panos".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Sobre Mim
+
+* 🎓 **Formação:** Bacharel em Ciência da Computação.
+*📍 **Base:** Santos - SP 🏖️
+* 🧠 **Back-end Heart:** Minha zona de conforto é o servidor. Gosto de sistemas onde a organização prevalece e tudo faz sentido.
+* ☕ **Combustível:** Cápsulas de café e muita música para entrar no estado flow com o código.
+---
+
+### 🛠 Tech Stack (Core Back-end)
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java`, `C#`, `Python`, `C`, `Go`, `JavaScript` |
+| **Frameworks** | `Spring Boot`, `.NET` |
+| **Bancos de Dados** | `PostgreSQL`, `MySQL`, `MongoDB` |
+| **Infra & DevOps** | `Docker`, `Git`, `Powershell`, `Linux` |
+
+
+---
+
+### 📈 Estatísticas de Desenvolvimento
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1caldeira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1caldeira&layout=compact&theme=nord&hide=html,css"/>
+</p>
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+* [LinkedIn](https://www.linkedin.com/in/gabriel-caldeira-bernardo)
+* [E-mail](mailto:g.caldeiraa1@gmail.com)
+
+---
