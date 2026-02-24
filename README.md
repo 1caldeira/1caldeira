@@ -16,12 +16,26 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 ### 🛠 Tech Stack (Core Back-end)
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Java`, `C#`, `Python`, `C` |
-| **Frameworks** | `Spring Boot`, `.NET` |
-| **Bancos de Dados** | `PostgreSQL`, `MySQL`, `MongoDB` |
-| **Infra & DevOps** | `Docker`, `Git`, `Powershell`, `Linux` |
+<p align="center">
+  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-005c84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-d92c20?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/docker-2ca5e0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
 
 
