@@ -9,7 +9,7 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 ### 💻 Sobre Mim
 
 * 🎓 **Formação:** Bacharel em Ciência da Computação.
-*📍 **Base:** Santos - SP 🏖️
+* 📍 **Base:** Santos - SP 🏖️
 * 🧠 **Back-end Heart:** Minha zona de conforto é o servidor. Gosto de sistemas onde a organização prevalece e tudo faz sentido.
 * ☕ **Combustível:** Cápsulas de café e muita música para entrar no estado flow com o código.
 ---
@@ -28,10 +28,9 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 ### 📈 Estatísticas de Desenvolvimento
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1caldeira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1caldeira&layout=compact&theme=nord&hide=html,css"/>
-</p>
+![Stats do Gabriel](https://github-readme-stats.vercel.app/api?username=1caldeira&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+
+![Linguagens do Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=1caldeira&layout=compact&theme=nord&hide=html,css)
 
 ---
 
