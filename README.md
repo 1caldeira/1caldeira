@@ -18,7 +18,7 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 | Camada | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Java`, `C#`, `Python`, `C`, `Go`, `JavaScript` |
+| **Linguagens** | `Java`, `C#`, `Python`, `C` |
 | **Frameworks** | `Spring Boot`, `.NET` |
 | **Bancos de Dados** | `PostgreSQL`, `MySQL`, `MongoDB` |
 | **Infra & DevOps** | `Docker`, `Git`, `Powershell`, `Linux` |
