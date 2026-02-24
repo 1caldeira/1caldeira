@@ -24,11 +24,8 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 | **Infra & DevOps** | `Docker`, `Git`, `Powershell`, `Linux` |
 
 
----
 
-### 📈 Estatísticas de Desenvolvimento
-
-[![Stats do Gabriel](https://github-readme-stats-fast.vercel.app/api?username=1caldeira)](https://github.com/1caldeira/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1caldedira)](https://github.com/1caldeira/github-readme-stats)
 
 
 ---
