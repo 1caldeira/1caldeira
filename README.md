@@ -16,7 +16,7 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 ### 🛠 Tech Stack (Core Back-end)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
