@@ -37,8 +37,6 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1caldeira)](https://github.com/1caldeira/github-readme-stats)
-
 
 ---
 
