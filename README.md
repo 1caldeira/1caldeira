@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Caldeira 👋
+# Olá, eu sou o Gabriel 👋
 
 ### **Software Engineer | Back-end Specialist | Bacharel em Ciência da Computação**
 
