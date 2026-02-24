@@ -28,9 +28,8 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, utilizando as mai
 
 ### 📈 Estatísticas de Desenvolvimento
 
-![Stats do Gabriel](https://github-readme-stats.vercel.app/api?username=1caldeira&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+[![Stats do Gabriel](https://github-readme-stats-fast.vercel.app/api?username=1caldeira)](https://github.com/1caldeira/github-readme-stats-fast)
 
-![Linguagens do Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=1caldeira&layout=compact&theme=nord&hide=html,css)
 
 ---
 
